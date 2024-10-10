@@ -16,6 +16,8 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 
 - [Recommender Systems](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Recommender%20Systems.ipynb): This project implements four main types of recommender systems: popularity-based, content-based, user-based, and item-based. Each system utilizes customer ratings, personal data, movie ratings, and movie characteristics to deliver personalized recommendations. By analyzing user preferences alongside item features, the model enhances the user experience and drives engagement by suggesting relevant movies or products.
 
+- [Email Spam Detection](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Spam%20Detection.ipynb): This project develops an Email Spam detection model using basic Natural Language Processing (NLP) techniques. By analyzing the text content of emails, the model classifies messages as either spam or not spam. Techniques such as tokenization, text vectorization, and classification algorithms are utilized to identify patterns in language that are indicative of spam. This model enhances email filtering, improving user experience by reducing unwanted messages and prioritizing relevant content.
+
 ## Tools 
 
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
