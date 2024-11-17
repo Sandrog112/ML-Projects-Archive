@@ -18,6 +18,8 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 
 - [Email Spam Detection](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Spam%20Detection.ipynb): This project develops an Email Spam detection model using basic Natural Language Processing (NLP) techniques. By analyzing the text content of emails, the model classifies messages as either spam or not spam. Techniques such as tokenization, text vectorization, and classification algorithms are utilized to identify patterns in language that are indicative of spam. This model enhances email filtering, improving user experience by reducing unwanted messages and prioritizing relevant content.
 
+- [Data Preparation, EDA, and Feature Engineering]():This project focuses on preparing, exploring, and engineering features from the Bank Marketing dataset, which contains information about telemarketing campaigns conducted by a Portuguese bank. The objective is to predict whether a client will subscribe to a term deposit based on demographic, economic, and campaign-related features. The code includes deep, detailed processes of data preperation, EDA and dimensionality reduction.
+
 ## Tools 
 
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
