@@ -27,7 +27,7 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
 - Jupyter Notebook
 
-- All datasets used in these projects were retrieved from [Kaggle](https://www.kaggle.com/datasets).
+- Most of the datasets used in these projects were retrieved from [Kaggle](https://www.kaggle.com/datasets). The ones that are not, have credit and linkes to the datasets.
 
 ## Contact
 
