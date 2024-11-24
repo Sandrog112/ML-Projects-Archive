@@ -20,6 +20,8 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 
 - [Data Preparation, EDA, and Feature Engineering](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Data%20preperation%2C%20EDA%20and%20Feature%20Engineering%20for%20Bank%20Deposit%20Campaign.ipynb):This project focuses on preparing, exploring, and engineering features from the Bank Marketing dataset, which contains information about telemarketing campaigns conducted by a Portuguese bank. The objective is to predict whether a client will subscribe to a term deposit based on demographic, economic, and campaign-related features. The code includes deep, detailed processes of data preperation, EDA and dimensionality reduction.
 
+- [Air Quality Regression Model](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Air%20Quality%20Regression%20Model.ipynb): This project is about creating the regression model, which tries to guess the air quality coefficient based on air's different chemical and biological compositions. The dataset includes 9358 hourly readings from 5 metal oxide chemical sensors in an Air Quality Monitoring Device, deployed at road level in a polluted Italian city from March 2004 to February 2005.
+
 ## Tools 
 
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
