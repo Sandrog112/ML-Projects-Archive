@@ -22,6 +22,8 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 
 - [Air Quality Regression Model](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Air%20Quality%20Regression%20Model.ipynb): This project is about creating the regression model, which tries to guess the air quality coefficient based on air's different chemical and biological compositions. The dataset includes 9358 hourly readings from 5 metal oxide chemical sensors in an Air Quality Monitoring Device, deployed at road level in a polluted Italian city from March 2004 to February 2005.
 
+- [Weather Prediction with Various Models](): This project aims to predict weather conditions, specifically the likelihood of rainfall the following day, using various meteorological variables. The dataset includes daily weather observations, capturing features such as temperature, humidity, wind speed, and pressure, among others. The project involves building multiple classification models, including Support Vector Machine (SVM), Naive Bayes, Logistic Regression, and K-Nearest Neighbors (KNN), to predict whether it will rain the next day based on historical weather data. The goal is to assess the performance of these models and determine the most accurate method for weather prediction based on the provided features.
+
 ## Tools 
 
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
