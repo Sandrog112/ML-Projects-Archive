@@ -24,6 +24,8 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 
 - [Weather Prediction with Various Models](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Weather%20Prediction%20with%20Various%20Models.ipynb): This project aims to predict weather conditions, specifically the likelihood of rainfall the following day, using various meteorological variables. The dataset includes daily weather observations, capturing features such as temperature, humidity, wind speed, and pressure, among others. The project involves building multiple classification models, including Support Vector Machine (SVM), Naive Bayes, Logistic Regression, and K-Nearest Neighbors (KNN), to predict whether it will rain the next day based on historical weather data. The goal is to assess the performance of these models and determine the most accurate method for weather prediction based on the provided features.
 
+- [Earthquake Clustering](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Earthquake%20Clustering.ipynb): This project clusters global earthquake events based on their geographical location (longitude and latitude), intensity (Richter scale), and focal depth. By applying clustering techniques, the model identifies patterns in earthquake characteristics and geographical trends, enabling better insights into seismic activity and aiding in understanding regional earthquake behavior
+
 ## Tools 
 
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
