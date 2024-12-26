@@ -26,6 +26,8 @@ Welcome to my Data Science Portfolio! Here, you will find a collection of projec
 
 - [Earthquake Clustering](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Earthquake%20Clustering.ipynb): This project clusters global earthquake events based on their geographical location (longitude and latitude), intensity (Richter scale), and focal depth. By applying clustering techniques, the model identifies patterns in earthquake characteristics and geographical trends, enabling better insights into seismic activity and aiding in understanding regional earthquake behavior
 
+- [Classification and Regression with Tree-Based Models](https://github.com/Sandrog112/Data-Science-Portfolio/blob/main/Classification%20and%20Regression%20with%20Tree-Based%20Models.ipynb): This project focuses on utilizing tree-based models for both classification and regression tasks on two distinct datasets: an Air Quality dataset and a Weather dataset. For the Air Quality dataset, regression models were developed to estimate pollutant concentrations like Benzene, CO, and NOx based on sensor data. For the Weather dataset, classification models were employed to predict the likelihood of rainfall the following day using meteorological variables such as temperature, humidity, wind speed, and pressure. The project highlights the performance of tree-based models in handling diverse data types and achieving accurate predictions across environmental and meteorological domains.
+
 ## Tools 
 
 - Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Tensorflow, Keras)
