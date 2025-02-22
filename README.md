@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# ML Projects Archive
 
-Welcome to my Data Science Portfolio! Here, you will find a collection of projects that showcase my skills and experience in data analysis, machine learning, and statistical modeling. I am passionate about turning data into actionable insights and developing models to solve real-world problems. 
+Welcome to my data science projects! Here, you will find a collection of projects that showcase my skills and experience in data analysis, machine learning, and statistical modeling. I am passionate about turning data into actionable insights and developing models to solve real-world problems. 
 
 ## Projects
 
